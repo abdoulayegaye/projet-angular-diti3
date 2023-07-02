@@ -1,0 +1,46 @@
+{
+  "employes": [
+    {
+      "id": 1,
+      "nom": "NDIAYE",
+      "prenom": "Marie",
+      "salaire": 800000
+    },
+    {
+      "id": 2,
+      "nom": "HAMANE ADJI",
+      "prenom": "Souleymane",
+      "salaire": 2000000
+    },
+    {
+      "id": 3,
+      "nom": "KEREN 1",
+      "prenom": "Ketsia 1",
+      "salaire": 7000000
+    },
+    {
+      "id": 4,
+      "nom": "DIALLO",
+      "prenom": "Mariama Oury",
+      "salaire": 1000000
+    },
+    {
+      "id": 5,
+      "nom": "MBENGUE",
+      "prenom": "Yankhoba",
+      "salaire": 5000000
+    },
+    {
+      "nom": "GAYE",
+      "prenom": "Abdoulaye",
+      "salaire": 500000,
+      "id": 6
+    },
+    {
+      "id": 7,
+      "nom": "TOTO",
+      "prenom": "TOTO",
+      "salaire": 123
+    }
+  ]
+}
